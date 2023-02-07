@@ -1,0 +1,5 @@
+* Leisure tools
+Tools for collaboration and joyful computing, towards a new version of Leisure...
+
+** The original version of [[https://github.com/zot/Leisure][Leisure]]
+** Leisure's [[https://github.com/TEAM-CTHULHU/LeisureEditCore][editing component]]
